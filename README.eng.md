@@ -1,6 +1,6 @@
  <p align="center">
-    <a href="">☆ Português Brasileiro</a>
-    <a href="">☆ English ☆</a> 
+    <a href="https://github.com/Fernanda1701/contador/blob/main/README.md">☆ Português Brasileiro</a>
+    <a href="https://github.com/Fernanda1701/contador/blob/main/README.eng.md">☆ English ☆</a> 
 </p>
 
 
