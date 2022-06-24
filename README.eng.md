@@ -34,7 +34,7 @@ the <b>Contador</b> is a simple counter, initialized at zero, where clicking the
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS3](https://devdocs.io/css/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- Code versioning on [GitHub](https://github.com/)
+- Code versioning on [Git](https://git-scm.com/)
 
 ## 💻 IDE
 
